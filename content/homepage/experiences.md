@@ -35,7 +35,7 @@ experiences:
       name: Williams Grand Prix Engineering
       url: https://www.williamsf1.com/
     dates: 'June 2018 - Sept. 2018'
-    location: Country
+    location: United Kingdom
     writeup: >
       - Development of competitor analysis tools in MATLAB
 
@@ -48,7 +48,7 @@ experiences:
       name: Mercedes AMG High Performance Powertrains
       url: https://www.mercedes-amg-hpp.com/
     dates: 'July 2017 - Sept. 2017'
-    location: Country
+    location: United Kingdom
     writeup: >
       - 3D and 2D design and analysis of test and race-release components
 
@@ -73,7 +73,7 @@ experiences:
     organization:
       name: Denford Limited
       url: http://website.denford.ltd.uk/
-    dates: 'Apr. 2017, June 2017'
+    dates: 'Dec. 2015 - June 2016'
     location: United Kingdom
     writeup: >
       - Helped run the 2016 F1 in Schools UK STEM competitions
