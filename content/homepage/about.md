@@ -52,4 +52,4 @@ widget:
 
 🏁 As my ambitions grew, I realized I couldn't achieve my dreams on my own. In third year, I lead our Formula Student (Formula SAE) team to competition for the first time in five years. Since then, I've used my honed in skills to race Formula 1 cars in the pinnacle of motorsport.
 
-🪐 I'm really excited about [JuliaLang](https://julialang.org/) and [Scientific Machine Learning](sciml.ai) and believe the future of scientific modelling lies in levering machine learning to combine centuries of physics-based modelling with the vast quantities of data available today. In my future, I hope to use my skills to fight climate change and equip humanity to explore the Moon, Mars and beyond.
+🪐 I'm really excited about [JuliaLang](https://julialang.org/) and [Scientific Machine Learning](https://sciml.ai) and believe the future of scientific modelling lies in levering machine learning to combine centuries of physics-based modelling with the vast quantities of data available today. In my future, I hope to use my skills to fight climate change and equip humanity to explore the Moon, Mars and beyond.
