@@ -1,4 +1,10 @@
-# main:
-#   # - name: Projects
-#   #   url: '/projects'
-#   #   weight: 1
+main:
+  # - name: Projects
+  #   url: '/projects'
+  #   weight: 1
+  - name: Making with Max
+    url: 'http://maxofbritton.com/makingwithmax'
+    weight: 2
+  - name: Photography
+    url: https://vsco.co/maxofbritton/gallery
+    weight: 3
