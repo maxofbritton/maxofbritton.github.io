@@ -71,7 +71,8 @@ title = 'Maximilian Britton'
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["Cookbook", "https://maxofbritton.com/cookbook/"],
+    ["GitHub", "https://github.com/maxofbritton"],
+    ["LinkedIn", "https://www.linkedin.com/in/maximilianbritton"],
     ["Making with Max", "https://maxofbritton.com/makingwithmax/"],
     ["Photography", "https://vsco.co/maxofbritton/gallery"],
-    ["LinkedIn", "https://www.linkedin.com/in/maximilianbritton"],
   ]
